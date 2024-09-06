@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.4",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"LinuxArm64",
+		"Windows",
+		"IOS",
+		"Linux",
+		"Mac"
+	]
 }
